@@ -1,6 +1,6 @@
 baseURL = 'https://BGSA-Carleton-University.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'BGSA Carleton University'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
