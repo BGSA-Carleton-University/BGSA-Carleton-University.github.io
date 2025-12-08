@@ -50,7 +50,7 @@ Supports multiple languages out of the box. Aims to comply with WCAG 2.1 standar
 #### Your Association
 The BGSA serves all bio grads. Meet the exec team here.
 {{< spacer 5 >}}
-{{< button link="/demo-page" text="Demo Page" >}}
+{{< button link="/demo-page" text="The BGSA" >}}
 {{< /card >}}
 
 {{< card >}}
