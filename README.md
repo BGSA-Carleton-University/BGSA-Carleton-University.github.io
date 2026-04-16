@@ -8,3 +8,5 @@ First go to terminal, then enter `winget install Hugo.Hugo.Extended` for Windows
 •	Go into terminal and type hugo to get it to deploy the website
 
 In the terminal use `git submodule update --init --recursive` to load in the submodules. 
+
+In the terminal use `hugo serve` to check a local version of the website for pushed changes.
